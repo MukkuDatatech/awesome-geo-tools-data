@@ -1,0 +1,35 @@
+name: seo-analyzer
+description: Open-source command-line SEO audit tool for analyzing website
+  technical SEO factors.
+source_url: https://github.com/stevenbenner/seo-analyzer
+category: Open-Source GEO Tools
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free
+featured: false
+markdown: >-
+  ## Overview
+
+
+  seo-analyzer is an open-source command-line tool for performing SEO audits on
+  websites.
+
+
+  ## Features
+
+
+  - Command-line interface for SEO auditing
+
+  - Technical SEO analysis
+
+  - Open-source and self-hosted
+
+
+  ## License
+
+
+  Open-source. Repository: https://github.com/stevenbenner/seo-analyzer
+brand: stevenbenner
+brand_logo_url: https://github.com/stevenbenner.png
+updated_at: 2026-11-21 07:29

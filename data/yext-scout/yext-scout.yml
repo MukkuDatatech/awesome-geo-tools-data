@@ -1,0 +1,59 @@
+name: Yext Scout
+description: A local AI visibility tracking platform that monitors brand
+  appearance in AI search engines by individual business location. It provides a
+  map-based visibility view across locations, tracks competitors per location,
+  performs sentiment analysis on AI outputs, and offers citation tracking.
+  Agents can be sent to perform actions across Yext's marketing tools. Pricing
+  is by request, with third-party info suggesting at least $199/month.
+source_url: https://www.yext.com/
+category: AI Visibility Tracking
+tags:
+  - Enterprise
+  - AI-Powered
+  - API
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Yext Scout is an AI visibility platform designed for enterprises with multiple
+  locations. Unlike national-level AI visibility trackers, Scout breaks down AI
+  brand monitoring by individual location, showing how each branch appears in AI
+  search results.
+
+
+  ## Features
+
+
+  - AI visibility by individual brand location
+
+  - Map showing visibility per location based on engine data from ChatGPT,
+  Gemini, Claude, and Perplexity
+
+  - Tracks performance against 20 closest competitors per scan based on location
+  and trends
+
+  - Sentiment analysis — identifies recurring themes in AI outputs related to
+  your brand
+
+  - Citation tracking — shows which sources AI answers use
+
+  - Agents that perform actions across Yext's marketing tools (requires the full
+  Yext platform)
+
+  - Connects to a broader suite of brand visibility tools
+
+
+  ## Pricing
+
+
+  - By request
+
+  - Third-party pricing info suggests at least $199/month
+
+  - Designed for enterprises with hundreds to thousands of locations
+brand: Yext
+brand_logo_url: https://www.yext.com/logo.svg
+images:
+  - https://www.yext.com/og-image.png
+updated_at: 2026-11-21 07:29

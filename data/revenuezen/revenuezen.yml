@@ -1,0 +1,32 @@
+name: RevenueZen
+description: RevenueZen is a B2B generative engine optimization (GEO) agency
+  specializing in growth-stage companies. The agency focuses on helping B2B
+  companies improve their visibility in AI-powered search engines.
+source_url: https://revenuezen.com/
+category: GEO Agencies & Services
+tags:
+  - paid
+  - B2B
+  - growth-stage
+  - AI-Powered
+featured: false
+markdown: |-
+  ## Overview
+
+  RevenueZen is a B2B GEO agency specializing in growth-stage companies.
+
+  ## Services
+
+  - B2B GEO services
+  - Growth-stage company focus
+  - AI search visibility for B2B
+
+  ## Pricing Model
+
+  Paid agency services. Contact for custom pricing.
+
+  ## Deployment
+
+  Cloud-based agency service.
+brand: RevenueZen
+updated_at: 2026-11-21 07:29

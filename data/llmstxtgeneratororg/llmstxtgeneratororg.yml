@@ -1,0 +1,24 @@
+name: llmstxtgenerator.org
+description: llmstxtgenerator.org is a web-based generator for creating llms.txt
+  files to help websites implement the llms.txt protocol for AI search
+  optimization.
+source_url: https://llmstxtgenerator.org/
+category: Technical GEO & llms.txt
+tags:
+  - Free Plan
+  - AI-Powered
+featured: false
+markdown: |-
+  ## Overview
+
+  llmstxtgenerator.org is a web-based tool for generating llms.txt files.
+
+  ## Features
+
+  - Web-based llms.txt generation
+
+  ## Pricing
+
+  Free web tool.
+brand: llmstxtgenerator.org
+updated_at: 2026-11-21 07:29

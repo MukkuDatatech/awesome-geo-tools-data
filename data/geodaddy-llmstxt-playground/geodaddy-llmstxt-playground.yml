@@ -1,0 +1,47 @@
+name: Geodaddy llms.txt Playground
+description: Free online tool that crawls any website and generates a
+  spec-compliant llms.txt markdown index for ingestion by AI crawlers such as
+  ChatGPT, Claude, and Perplexity. Requires no signup or API key.
+source_url: https://geodaddy.dev/playground/llms-txt
+category: Technical GEO & llms.txt
+tags:
+  - Free Plan
+  - AI-Powered
+  - llms.txt
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Geodaddy llms.txt Playground is a free web-based generator that crawls a
+  target site's URLs and emits a markdown llms.txt file optimized for large
+  language model crawlers.
+
+
+  ## Key Features
+
+
+  - Crawls website URLs to build an index
+
+  - Generates spec-compliant llms.txt markdown
+
+  - Output readable by ChatGPT, Claude, and Perplexity
+
+  - No signup required
+
+  - No API key required
+
+
+  ## Pricing Model
+
+
+  Free.
+
+
+  ## Deployment
+
+
+  Cloud-hosted web tool.
+brand: Geodaddy
+images: []
+updated_at: 2026-11-21 07:29

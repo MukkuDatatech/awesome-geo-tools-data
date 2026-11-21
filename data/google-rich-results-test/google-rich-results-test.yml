@@ -1,0 +1,37 @@
+name: Google Rich Results Test
+description: Free testing tool from Google for validating structured data markup
+  on web pages. Helps verify that schema.org markup is correctly implemented and
+  eligible for rich results in Google Search.
+source_url: https://search.google.com/test/rich-results
+category: Technical GEO & llms.txt
+tags:
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Google Rich Results Test is a free tool from Google for testing and validating
+  structured data markup on web pages to ensure eligibility for rich results.
+
+
+  ## Features
+
+
+  - Structured data validation and testing
+
+  - Rich results eligibility checking
+
+  - Schema.org markup verification
+
+  - Free Google-provided testing tool
+
+
+  ## Pricing
+
+
+  Free.
+brand: Google
+brand_logo_url: https://www.google.com/favicon.ico
+images: []
+updated_at: 2026-11-21 07:29

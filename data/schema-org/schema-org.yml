@@ -1,0 +1,39 @@
+name: Schema.org
+description: Structured data standards for marking up web content so it can be
+  understood by search engines and AI models. Provides the vocabulary used for
+  schema markup that helps AI search engines interpret page content.
+source_url: https://schema.org
+category: Technical GEO & llms.txt
+tags:
+  - Free Plan
+  - Standards
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Schema.org is a collaborative community standard for structured data markup on
+  web pages, providing a shared vocabulary that helps search engines and AI
+  models understand page content.
+
+
+  ## Features
+
+
+  - Structured data standards and vocabulary
+
+  - Schema markup definitions for web content
+
+  - Community-driven standard adopted by major search engines
+
+  - AI-readable content markup support
+
+
+  ## Pricing
+
+
+  Free and open standard.
+brand: Schema.org
+brand_logo_url: https://schema.org/favicon.ico
+images: []
+updated_at: 2026-11-21 07:29

@@ -1,0 +1,77 @@
+name: SE Visible
+description: SE Visible aggregates prompt-level outputs into standardized
+  performance scores. It runs prompts across multiple LLMs to extract mentions
+  and sentiment, then converts them into visibility and sentiment scores per
+  brand. The platform also provides prompt and topic breakdowns behind those
+  scores, so users can drill into which queries are driving performance changes.
+  A distinguishing feature is its multi-client reporting layer, which allows
+  agencies to track multiple brands and generate consistent reporting across
+  them. It does not provide raw prompt-experimentation tools or attribution
+  workflows, so it's mostly a reporting interface built on top of collected LLM
+  data. Pricing is paid.
+source_url: https://sevisible.ai
+category: AI Visibility Tracking
+tags:
+  - Paid
+  - Agency
+  - API
+  - AI-Powered
+  - Reporting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SE Visible aggregates prompt-level outputs into standardized performance
+  scores. It runs prompts across multiple LLMs to extract mentions and
+  sentiment, then converts them into visibility and sentiment scores per brand.
+
+
+  ## Key Features
+
+
+  - Runs prompts across multiple LLMs to extract mentions and sentiment
+
+  - Converts data into visibility and sentiment scores per brand
+
+  - Prompt and topic breakdowns behind scores
+
+  - Multi-client reporting layer for agencies tracking multiple brands
+
+  - Consistent reporting across multiple brands
+
+
+  ## Limitations
+
+
+  - Does not provide raw prompt-experimentation tools
+
+  - No attribution workflows
+
+  - Mostly a reporting interface built on top of collected LLM data
+
+
+  ## Best For
+
+
+  Agencies that need standardized reporting across multiple brands.
+
+
+  ## Pricing Model
+
+
+  Paid.
+
+
+  ## Deployment
+
+
+  Cloud
+
+
+  ## Integrations
+
+
+  Not specified in source content.
+brand: SE Visible
+updated_at: 2026-11-21 07:29

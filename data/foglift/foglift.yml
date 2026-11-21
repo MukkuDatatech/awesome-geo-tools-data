@@ -1,0 +1,47 @@
+name: Foglift
+description: AI-powered GEO readiness scanner that analyzes llms.txt, structured
+  data, crawlability, and AI search visibility. Offers a free scan with API and
+  MCP server access for integration into existing workflows.
+source_url: https://foglift.io
+category: AI Visibility Tracking
+tags:
+  - AI-Powered
+  - Paid
+  - API
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Foglift is an AI-powered GEO readiness scanner that analyzes technical AI
+  search factors including llms.txt, structured data, crawlability, and overall
+  AI search visibility.
+
+
+  ## Features
+
+
+  - AI-powered GEO readiness scanning
+
+  - llms.txt analysis
+
+  - Structured data analysis
+
+  - Crawlability analysis for AI crawlers
+
+  - AI search visibility assessment
+
+  - Free scan available
+
+  - API and MCP server access
+
+
+  ## Pricing
+
+
+  Free scan available; paid platform with API and MCP server access.
+brand: Foglift
+brand_logo_url: https://foglift.io/favicon.ico
+images: []
+updated_at: 2026-11-21 07:29

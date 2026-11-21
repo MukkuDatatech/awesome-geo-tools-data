@@ -1,0 +1,51 @@
+name: GeoReady
+description: GEO Optimizer is the open-source engine behind GeoReady
+  (geoready.dev). It audits whether ChatGPT, Perplexity, Gemini, and Google AI
+  Overviews cite a site. Provided as a CLI, written in Python, with MCP support.
+source_url: https://geoready.dev/
+category: Open-Source GEO Tools
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - CLI
+  - MCP
+  - AI-Powered
+featured: false
+markdown: >
+  ## Overview
+
+
+  GeoReady, powered by the open-source GEO Optimizer engine, audits whether
+  generative AI search engines (ChatGPT, Perplexity, Gemini, Google AI
+  Overviews) cite a website. It is a CLI tool written in Python with MCP
+  support.
+
+
+  ## Features
+
+
+  - AI citation auditing for ChatGPT, Perplexity, Gemini, and Google AI
+  Overviews
+
+  - CLI interface
+
+  - Python implementation
+
+  - MCP support
+
+  - Open-source engine behind GeoReady
+
+
+  ## Pricing
+
+
+  Free and open source. Repository linked from https://geoready.dev/.
+
+
+  ## Deployment
+
+
+  Self-hosted CLI.
+brand: GeoReady
+updated_at: 2026-11-21 07:29

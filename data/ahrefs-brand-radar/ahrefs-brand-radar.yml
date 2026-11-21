@@ -1,0 +1,49 @@
+name: Ahrefs Brand Radar
+description: An AI brand monitoring add-on for existing Ahrefs users that tracks
+  brand performance across major AI platforms including Google AI Overviews,
+  Google AI Mode, ChatGPT, Perplexity, Gemini, and Copilot. It offers
+  benchmarking against competitors and a straightforward interface for assessing
+  AI visibility. Pricing is a $199/month add-on on top of an existing Ahrefs
+  plan.
+source_url: https://ahrefs.com/
+category: AI Visibility Tracking
+tags:
+  - Paid
+  - AI-Powered
+  - API
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Ahrefs Brand Radar is a focused AI visibility monitoring tool built into the
+  Ahrefs SEO platform. It is designed for existing Ahrefs users who want to add
+  AI search tracking to their toolkit without switching platforms.
+
+
+  ## Features
+
+
+  - Monitors brand performance across major AI platforms
+
+  - Benchmarking against competitors
+
+  - Straightforward, info-packed interface
+
+  - Tracks Google AI Overviews, Google AI Mode, ChatGPT, Perplexity, Gemini, and
+  Copilot
+
+  - Integrates with Ahrefs MCP for working with SEO data in AI tools
+
+
+  ## Pricing
+
+
+  - Add-on available in addition to existing Ahrefs plan (free or paid)
+
+  - $199/month
+brand: Ahrefs
+brand_logo_url: https://ahrefs.com/logo.svg
+images:
+  - https://ahrefs.com/og-image.png
+updated_at: 2026-11-21 07:29

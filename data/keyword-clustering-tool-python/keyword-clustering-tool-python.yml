@@ -1,0 +1,39 @@
+name: Keyword Clustering Tool (Python)
+description: Open-source Python tool for clustering keywords using embeddings to
+  group related search terms.
+source_url: https://github.com/AndreiMikhalevich/KeywordClustering
+category: Open-Source GEO Tools
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Keyword Clustering Tool is an open-source Python project that clusters
+  keywords using text embeddings to group related search terms together.
+
+
+  ## Features
+
+
+  - Keyword clustering using embeddings
+
+  - Groups related search terms
+
+  - Python-based, open-source
+
+  - Self-hosted
+
+
+  ## License
+
+
+  Open-source. Repository:
+  https://github.com/AndreiMikhalevich/KeywordClustering
+brand: AndreiMikhalevich
+brand_logo_url: https://github.com/AndreiMikhalevich.png
+updated_at: 2026-11-21 07:29

@@ -1,0 +1,48 @@
+name: geo-check
+description: Open source CLI tool that scores a site's AI crawler access and
+  readability from robots.txt, sitemap, llms.txt, and sampled pages. Does not
+  use an LLM in the scoring path, providing deterministic AI crawlability
+  assessment.
+source_url: https://github.com/vasco-branco06/geo-check
+category: Open-Source GEO Tools
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - CLI
+featured: false
+markdown: >-
+  ## Overview
+
+
+  geo-check is an open-source command-line interface tool that evaluates a
+  website's AI crawler access and readability by analyzing robots.txt, sitemap,
+  llms.txt, and sampled pages without using an LLM in the scoring path.
+
+
+  ## Features
+
+
+  - Open-source CLI for AI crawler access scoring
+
+  - Analyzes robots.txt, sitemap, llms.txt, and sampled pages
+
+  - Deterministic scoring (no LLM in scoring path)
+
+  - AI crawlability and readability assessment
+
+
+  ## Pricing
+
+
+  Free and open source. Repository: https://github.com/vasco-branco06/geo-check
+
+
+  ## License
+
+
+  Open source (license specified in repository).
+brand: geo-check
+brand_logo_url: https://github.com/favicon.ico
+images: []
+updated_at: 2026-11-21 07:29

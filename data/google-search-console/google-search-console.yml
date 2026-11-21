@@ -1,0 +1,43 @@
+name: Google Search Console
+description: Free Google service for tracking website performance in Google
+  Search, with basic AI insights included.
+source_url: https://search.google.com/search-console/about
+category: AI Traffic Analytics
+tags:
+  - Free
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Google Search Console is a free service from Google that helps website owners
+  monitor, maintain, and troubleshoot their site's presence in Google Search
+  results.
+
+
+  ## Features
+
+
+  - Search performance tracking
+
+  - Impressions and clicks data
+
+  - Average position reporting
+
+  - Index coverage reports
+
+  - Mobile usability insights
+
+  - Basic AI insights
+
+  - Sitemap submission
+
+
+  ## Pricing
+
+
+  Free.
+brand: Google
+brand_logo_url: https://www.google.com/favicon.ico
+updated_at: 2026-11-21 07:29
