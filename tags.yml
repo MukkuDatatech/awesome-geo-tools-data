@@ -1,28 +1,66 @@
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: ai-visibility-tracking
-  name: "AI Visibility Tracking"
+  name: AI Visibility Tracking
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: api
-  name: "API"
+  name: API
 - id: content-optimization-for-llms
-  name: "Content Optimization for LLMs"
+  name: Content Optimization for LLMs
 - id: technical-geo-and-llms-txt
-  name: "Technical GEO & llms.txt"
+  name: Technical GEO & llms.txt
 - id: geo-agencies-and-services
-  name: "GEO Agencies & Services"
+  name: GEO Agencies & Services
 - id: ai-traffic-analytics
-  name: "AI Traffic Analytics"
+  name: AI Traffic Analytics
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: open-source-geo-tools
-  name: "Open-Source GEO Tools"
+  name: Open-Source GEO Tools
+- id: content-focused
+  name: Content Focused
+- id: cli
+  name: CLI
+- id: cloud
+  name: Cloud
+- id: llmstxt
+  name: Llms.txt
+- id: mcp
+  name: MCP
+- id: free
+  name: Free
+- id: data-driven
+  name: Data Driven
+- id: qualitative-analysis
+  name: Qualitative Analysis
+- id: full-service
+  name: Full Service
+- id: technical
+  name: Technical
+- id: attribution
+  name: Attribution
+- id: agency
+  name: Agency
+- id: keyword-tracking
+  name: Keyword Tracking
+- id: b2b
+  name: B2B
+- id: integrated-seogeo
+  name: Integrated SEO+GEO
+- id: growth-stage
+  name: Growth Stage
+- id: standards
+  name: Standards
+- id: reporting
+  name: Reporting
+- id: technical-precision
+  name: Technical Precision

@@ -1,12 +1,58 @@
 - id: ai-visibility-tracking
-  name: "AI Visibility Tracking"
+  name: AI Visibility Tracking
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526
+    5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1
+    5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12
+    18Z"/></svg>
 - id: content-optimization-for-llms
-  name: "Content Optimization for LLMs"
+  name: Content Optimization For LLMs
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="2"
+    ry="2"/><line x1="6" y1="7" x2="18" y2="7"/><line x1="6" y1="10" x2="14"
+    y2="10"/><line x1="19" y1="4" x2="19" y2="6"/><line x1="18" y1="5" x2="20"
+    y2="5"/></svg>
 - id: technical-geo-and-llms-txt
-  name: "Technical GEO & llms.txt"
+  name: Technical GEO & llms.txt
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1
+    1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12"
+    cy="10" r="3"/></svg>
 - id: geo-agencies-and-services
-  name: "GEO Agencies & Services"
+  name: GEO Agencies & Services
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1
+    1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12"
+    cy="10" r="3"/></svg>
 - id: ai-traffic-analytics
-  name: "AI Traffic Analytics"
+  name: AI Traffic Analytics
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526
+    5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1
+    5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12
+    18Z"/></svg>
 - id: open-source-geo-tools
-  name: "Open-Source GEO Tools"
+  name: Open Source GEO Tools
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
+- id: technical-geo-llmstxt
+  name: Technical GEO & Llms.txt
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1
+    1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12"
+    cy="10" r="3"/></svg>
+- id: geo-agencies-services
+  name: GEO Agencies & Services
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1
+    1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12"
+    cy="10" r="3"/></svg>

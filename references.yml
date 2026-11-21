@@ -1,10 +1,56 @@
-- url: "https://zapier.com/blog/best-ai-visibility-tool/"
-  title: "Zapier — The 9 best AI visibility tools in 2026"
-- url: "https://raw.githubusercontent.com/amplifying-ai/awesome-generative-engine-optimization/HEAD/readme.md"
-  title: "GitHub list — amplifying-ai/awesome-generative-engine-optimization (541★)"
-- url: "https://raw.githubusercontent.com/luka2chat/awesome-geo/HEAD/README.md"
-  title: "GitHub list — luka2chat/awesome-geo (131★)"
-- url: "https://raw.githubusercontent.com/best-of-ai/awesome-ai-seo/HEAD/README.md"
-  title: "GitHub list — best-of-ai/awesome-ai-seo (328★)"
-- url: "https://github.com/topics/generative-engine-optimization"
-  title: "GitHub topic — `generative-engine-optimization` (1,424 repos)"
+- url: https://geodaddy.dev/playground/llms-txt
+  normalized_url: https://geodaddy.dev/playground/llms-txt
+  first_seen_at: 2026-11-21T07:28:45.852Z
+  last_attempted_at: 2026-11-21T07:28:45.852Z
+  last_success_at: 2026-11-21T07:28:45.852Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://github.com/topics/generative-engine-optimization
+  normalized_url: https://github.com/topics/generative-engine-optimization
+  first_seen_at: 2026-11-21T07:26:51.823Z
+  last_attempted_at: 2026-11-21T07:26:51.823Z
+  last_success_at: 2026-11-21T07:26:51.823Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
+- url: https://limy.ai/blog/top-generative-engine-optimization-tools-by-category
+  normalized_url: https://limy.ai/blog/top-generative-engine-optimization-tools-by-category
+  first_seen_at: 2026-11-21T07:28:26.142Z
+  last_attempted_at: 2026-11-21T07:28:26.142Z
+  last_success_at: 2026-11-21T07:28:26.142Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/amplifying-ai/awesome-generative-engine-optimization/HEAD/readme.md
+  normalized_url: https://raw.githubusercontent.com/amplifying-ai/awesome-generative-engine-optimization/HEAD/readme.md
+  first_seen_at: 2026-11-21T07:17:28.326Z
+  last_attempted_at: 2026-11-21T07:17:28.326Z
+  last_success_at: 2026-11-21T07:17:28.326Z
+  status: success
+  items_created: 29
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/best-of-ai/awesome-ai-seo/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/best-of-ai/awesome-ai-seo/HEAD/README.md
+  first_seen_at: 2026-11-21T07:22:19.030Z
+  last_attempted_at: 2026-11-21T07:22:19.030Z
+  last_success_at: 2026-11-21T07:22:19.030Z
+  status: success
+  items_created: 23
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/luka2chat/awesome-geo/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/luka2chat/awesome-geo/HEAD/README.md
+  first_seen_at: 2026-11-21T07:20:11.520Z
+  last_attempted_at: 2026-11-21T07:20:11.520Z
+  last_success_at: 2026-11-21T07:20:11.520Z
+  status: success
+  items_created: 29
+  pipeline: agent-pipeline
+- url: https://zapier.com/blog/best-ai-visibility-tool/
+  normalized_url: https://zapier.com/blog/best-ai-visibility-tool
+  first_seen_at: 2026-11-21T07:15:23.593Z
+  last_attempted_at: 2026-11-21T07:15:23.593Z
+  last_success_at: 2026-11-21T07:15:23.593Z
+  status: success
+  items_created: 8
+  pipeline: agent-pipeline
