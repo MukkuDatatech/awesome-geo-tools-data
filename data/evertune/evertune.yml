@@ -1,0 +1,11 @@
+name: "Evertune"
+description: "AI brand monitoring tool that tracks where and how brands appear in LLM responses. Provides visibility scoring and competitive intelligence. Paid subscription."
+source_url: "https://evertune.ai/"
+category: "AI Visibility Tracking"
+tags:
+  - "paid"
+  - "ai-powered"
+  - "ai-visibility-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/evertune.ai.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://evertune.ai/>\n"
+updated_at: "2026-11-21 00:54"

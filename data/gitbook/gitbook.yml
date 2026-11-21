@@ -1,0 +1,12 @@
+name: "GitBook"
+description: "Documentation and knowledge base platform for creating technical content optimized for AI consumption. Supports llms.txt and structured knowledge exports. Freemium with paid plans."
+source_url: "https://www.gitbook.com/"
+category: "Technical GEO & llms.txt"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "technical-geo-and-llms-txt"
+icon_url: "https://icons.duckduckgo.com/ip3/www.gitbook.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.gitbook.com/>\n"
+updated_at: "2026-11-21 00:54"

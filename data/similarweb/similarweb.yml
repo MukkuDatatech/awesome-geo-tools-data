@@ -1,0 +1,13 @@
+name: "Similarweb"
+description: "Digital intelligence platform providing website traffic analytics, including AI referral and chatbot traffic sources. Used by marketers to track GEO-driven visits. Freemium with paid plans."
+source_url: "https://www.similarweb.com/"
+category: "AI Traffic Analytics"
+tags:
+  - "freemium"
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "ai-traffic-analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/www.similarweb.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.similarweb.com/>\n"
+updated_at: "2026-11-21 00:54"

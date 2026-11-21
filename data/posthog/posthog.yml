@@ -1,0 +1,13 @@
+name: "PostHog"
+description: "Open-source product analytics platform that can be self-hosted to track user traffic, including AI-driven referrals. Offers feature flags, session replay, and analytics. Open source with cloud and self-hosted options."
+source_url: "https://posthog.com/"
+category: "AI Traffic Analytics"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "ai-traffic-analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/posthog.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://posthog.com/>\n- Repository: <https://github.com/PostHog/posthog>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:54"

@@ -1,0 +1,28 @@
+- id: paid
+  name: "Paid"
+- id: ai-powered
+  name: "AI-Powered"
+- id: ai-visibility-tracking
+  name: "AI Visibility Tracking"
+- id: enterprise
+  name: "Enterprise"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: content-optimization-for-llms
+  name: "Content Optimization for LLMs"
+- id: technical-geo-and-llms-txt
+  name: "Technical GEO & llms.txt"
+- id: geo-agencies-and-services
+  name: "GEO Agencies & Services"
+- id: ai-traffic-analytics
+  name: "AI Traffic Analytics"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: open-source-geo-tools
+  name: "Open-Source GEO Tools"

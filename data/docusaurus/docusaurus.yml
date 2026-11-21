@@ -1,0 +1,12 @@
+name: "Docusaurus"
+description: "Open-source static site generator for documentation websites, self-hosted and commonly used to publish llms.txt files. Maintained by Meta with MIT license. Open source."
+source_url: "https://docusaurus.io/"
+category: "Open-Source GEO Tools"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "open-source-geo-tools"
+icon_url: "https://icons.duckduckgo.com/ip3/docusaurus.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://docusaurus.io/>\n- Repository: <https://github.com/facebook/docusaurus>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:54"

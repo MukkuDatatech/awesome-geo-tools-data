@@ -1,0 +1,12 @@
+name: "ReadMe"
+description: "Documentation platform that helps companies build AI-ready developer hubs and llms.txt files. Supports technical GEO by structuring content for LLM ingestion. Freemium with paid plans."
+source_url: "https://readme.com/"
+category: "Technical GEO & llms.txt"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "technical-geo-and-llms-txt"
+icon_url: "https://icons.duckduckgo.com/ip3/readme.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://readme.com/>\n"
+updated_at: "2026-11-21 00:54"

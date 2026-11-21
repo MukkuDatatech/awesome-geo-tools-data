@@ -1,0 +1,12 @@
+name: "Surfer"
+description: "Content optimization platform that analyzes SERPs and provides data-driven recommendations for AI-friendly content. Used by content marketers and SEOs. Freemium with paid plans."
+source_url: "https://surfer.ai/"
+category: "Content Optimization for LLMs"
+tags:
+  - "freemium"
+  - "paid"
+  - "ai-powered"
+  - "content-optimization-for-llms"
+icon_url: "https://icons.duckduckgo.com/ip3/surfer.ai.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://surfer.ai/>\n"
+updated_at: "2026-11-21 00:54"

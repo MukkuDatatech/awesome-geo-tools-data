@@ -1,0 +1,12 @@
+name: "Writesonic"
+description: "AI content generation platform with features for optimizing content for AI search and GEO workflows. Offers article writing, SEO tools, and chatbot integration. Freemium with paid plans."
+source_url: "https://writesonic.com/"
+category: "Content Optimization for LLMs"
+tags:
+  - "freemium"
+  - "paid"
+  - "ai-powered"
+  - "content-optimization-for-llms"
+icon_url: "https://icons.duckduckgo.com/ip3/writesonic.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://writesonic.com/>\n"
+updated_at: "2026-11-21 00:54"
